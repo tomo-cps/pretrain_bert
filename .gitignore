@@ -1,0 +1,5 @@
+wiki40b_BERT/*
+data/wiki40b_sentencepiece.model
+data/wiki40b_sentencepiece.vocab
+data/SousekiBERT/*
+data/corpus/*
