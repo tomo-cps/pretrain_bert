@@ -13,8 +13,7 @@ python dl_data.py
 - 学習がうまくできるようであれば，データセットを拡大する方針
 
 ## 2. 前処理
-- ./dataに移動して，wiki_40b_train.txtがダウンロードできているか確認し，以下の\\
-コマンドを実行
+- ./dataに移動して，wiki_40b_train.txtがダウンロードできているか確認し，以下のコマンドを実行
 ```./data
 chmod u+x preprocess.sh
 ```
