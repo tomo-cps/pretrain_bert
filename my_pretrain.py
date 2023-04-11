@@ -12,7 +12,6 @@ matplotlib.get_cachedir()
 
 plt.style.use(['science', 'ieee', 'no-latex'])
 matplotlib.rc('font', family='times new roman')
-# plt.style.use(['science','ieee','no-latex'])
 
 data_dir = "./data/"
 
