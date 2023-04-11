@@ -1,3 +1,5 @@
+# [Huggingface Transformers] Wiki-40Bデータセットを使ってゼロから日本語BERTの事前学習モデルを構築する
+
 ## 0. requirements.txt
 ```./
 pip install -r requirements.txt
