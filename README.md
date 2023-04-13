@@ -40,3 +40,5 @@ python create_10000.py
 python my_pretrain.py
 ```
 - ./log直下にlossとepochのグラフが格納される
+
+![output](/log/output.png) 
