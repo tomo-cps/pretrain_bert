@@ -43,3 +43,12 @@ python my_pretrain.py
 
 
 <img src="/log/output.png" width="70%">
+
+---
+## 実行環境
+```
+Ubuntu 20.04
+Specification
+CPU: Intel Core i9-13900K (24 cores, 32 threads, 3.0 / 2.8GHz, Passmark 59763)
+GPU: GeForce RTX-3090 Ti
+```
